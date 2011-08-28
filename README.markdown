@@ -7,3 +7,5 @@ click on the pop-up and find out).
 Besides, there are Javascript examples to illustrate how to make OAuth
 requests with the library I'm using (see oauthtestget.js for GET
 requests and oauthtest.js for POST requests).
+
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=emanchado&url=https://github.com/emanchado/Javascript-OAuth-experiments&title=Javascript OAuth experiments&language=en_GB&tags=github&category=software)
