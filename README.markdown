@@ -1,3 +1,21 @@
+DEPRECATED
+==========
+
+This extension is deprecated. It was written for Opera 12, it will not work (I guess?) on Opera >= 15.
+
+
+
+
+
+
+
+
+
+
+
+Old README contents
+===================
+
 This is a barely working Opera extension I'm using to experiment with
 OAuth in Javascript. It uses the Opera Link API to show the URLs of
 the blocked elements in the current page (if you're wondering if
